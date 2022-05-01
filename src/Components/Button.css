@@ -1,0 +1,29 @@
+.buttonChart{
+    padding: 20px;
+    font-size:16px;
+    width:150px;
+    border-radius:6px;
+    cursor: pointer;
+    border: 1px solid rgb(237, 89, 89);
+    background-color: rgb(237, 89, 89);
+}
+.buttonStatistical{
+    padding: 20px;
+    cursor: pointer;
+    font-size:16px;
+    width:150px;
+    margin-left: 10px;
+    border-radius:6px;
+    border: 1px solid rgb(173, 215, 101);;
+    background-color:rgb(173, 215, 101);
+}
+.Button{
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.buttonChart:active{
+    transform: scale(1.3);
+}
+.buttonStatistical:active{
+    transform: scale(1.3);
+}

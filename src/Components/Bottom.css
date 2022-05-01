@@ -1,0 +1,46 @@
+.listTitle {
+  border: 1px solid red;
+  padding: 7px;
+  width: 26%;
+  margin-top: 20px;
+}
+.listTag {
+  padding: 10px;
+
+  margin-top: 20px;
+  border: 1px solid rgb(127, 127, 10);
+}
+.listAll {
+  display: flex;
+}
+.listAllTag {
+  width: 30%;
+}
+.listLikeCount {
+  border: 1px solid red;
+  padding: 3px;
+  margin-top: 20px;
+}
+.listCommentCount {
+    border: 1px solid red;
+    padding: 3px;
+    margin-top: 20px;
+}
+.listshareCount{
+    border: 1px solid red;
+    padding: 3px;
+    margin-top: 20px;
+}
+.listauthor{
+    border: 1px solid red;
+   
+    margin-top: 20px;
+}
+.bottomContainer{
+    display: flex;
+    margin-left: 30px;
+}
+.listQuantity,
+.listTime{
+    width:50%;
+}
